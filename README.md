@@ -36,7 +36,8 @@ The target images contain the following 24 classes:
 The **goal** is to design and train a robust model for semantic segmentation. Once the predicted masks have been generated, we want to find the optimal landing position for the drone. This is defined as the position that allows for the safest landing, prioritizing empty spots on grass or paved areas to avoid damage to objects or people.
 
 ### _Content_:
-- 
+- [DroneLanding_VaccariSimone.ipynb](https://github.com/MomiQB/DroneLanding/blob/main/DroneLanding_VaccariSimone.ipynb): main notebook
+- [ci](https://github.com/MomiQB/DroneLanding/blob/main/DroneLanding_VaccariSimone.ipynb)
 
 
 
